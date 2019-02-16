@@ -1,0 +1,24 @@
+
+    hr{
+      border-top: 8px dotted;
+      background-color: #fafafa;
+      width: 16%
+    }
+
+    body{
+      background-color: #fafafa;
+        }
+
+    h2{
+      color: #841818
+    }
+
+    h3{
+      color: #e0bb20
+    }
+
+    #adjustedimage {
+      border-radius: 5%;
+      margin: 50px 20px;
+      transform: rotate(90deg);
+        }
